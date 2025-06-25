@@ -1,0 +1,6 @@
+crypto_exchange_django/
+ exchange/
+ orders/
+manage.py
+requirements.txt
+render.yaml
